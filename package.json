@@ -12,7 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "micro-bot": "^2.5.3",
-    "mongoose": "^6.0.10",
-    "telegraf": "^4.4.2"
+    "mongoose": "^6.0.10"
   }
 }
